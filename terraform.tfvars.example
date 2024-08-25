@@ -1,0 +1,6 @@
+ssh_username        = ""
+ssh_password        = ""
+ssh_public_key_path = "~/.ssh/id_rsa.pub"
+resource_location   = "East US"
+vm_size             = "Standard_DS2_v2"
+jupyter_password    = ""
